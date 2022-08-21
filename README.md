@@ -1,4 +1,4 @@
-# Textpreprocessing
+# Text preprocessing
 Contains text pre-processing functions.
 - The notebook contains text preprocessing functions for Natural language processing. 
 - The methods perform removing whitespaces, html tags, converting the text in lower space and text operations as given
